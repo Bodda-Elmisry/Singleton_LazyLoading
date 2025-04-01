@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SingletonDPLazyLoading")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+471370c6f7a0dc57ab855d36d41d97890095b0e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b76f03a103fc5eb14a5554a90641d0429516bd0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SingletonDPLazyLoading")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SingletonDPLazyLoading")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+D:\test\C#\SingletonDPLazyLoading\SingletonDPLazyLoading\SingletonDPLazyLoading\bin\Debug\net8.0\SingletonDPLazyLoading.exe
+D:\test\C#\SingletonDPLazyLoading\SingletonDPLazyLoading\SingletonDPLazyLoading\bin\Debug\net8.0\SingletonDPLazyLoading.deps.json
+D:\test\C#\SingletonDPLazyLoading\SingletonDPLazyLoading\SingletonDPLazyLoading\bin\Debug\net8.0\SingletonDPLazyLoading.runtimeconfig.json
+D:\test\C#\SingletonDPLazyLoading\SingletonDPLazyLoading\SingletonDPLazyLoading\bin\Debug\net8.0\SingletonDPLazyLoading.dll
+D:\test\C#\SingletonDPLazyLoading\SingletonDPLazyLoading\SingletonDPLazyLoading\bin\Debug\net8.0\SingletonDPLazyLoading.pdb
+D:\test\C#\SingletonDPLazyLoading\SingletonDPLazyLoading\SingletonDPLazyLoading\obj\Debug\net8.0\SingletonDPLazyLoading.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\C#\SingletonDPLazyLoading\SingletonDPLazyLoading\SingletonDPLazyLoading\obj\Debug\net8.0\SingletonDPLazyLoading.AssemblyInfoInputs.cache
+D:\test\C#\SingletonDPLazyLoading\SingletonDPLazyLoading\SingletonDPLazyLoading\obj\Debug\net8.0\SingletonDPLazyLoading.AssemblyInfo.cs
+D:\test\C#\SingletonDPLazyLoading\SingletonDPLazyLoading\SingletonDPLazyLoading\obj\Debug\net8.0\SingletonDPLazyLoading.csproj.CoreCompileInputs.cache
+D:\test\C#\SingletonDPLazyLoading\SingletonDPLazyLoading\SingletonDPLazyLoading\obj\Debug\net8.0\SingletonDPLazyLoading.sourcelink.json
+D:\test\C#\SingletonDPLazyLoading\SingletonDPLazyLoading\SingletonDPLazyLoading\obj\Debug\net8.0\SingletonDPLazyLoading.dll
+D:\test\C#\SingletonDPLazyLoading\SingletonDPLazyLoading\SingletonDPLazyLoading\obj\Debug\net8.0\refint\SingletonDPLazyLoading.dll
+D:\test\C#\SingletonDPLazyLoading\SingletonDPLazyLoading\SingletonDPLazyLoading\obj\Debug\net8.0\SingletonDPLazyLoading.pdb
+D:\test\C#\SingletonDPLazyLoading\SingletonDPLazyLoading\SingletonDPLazyLoading\obj\Debug\net8.0\SingletonDPLazyLoading.genruntimeconfig.cache
+D:\test\C#\SingletonDPLazyLoading\SingletonDPLazyLoading\SingletonDPLazyLoading\obj\Debug\net8.0\ref\SingletonDPLazyLoading.dll
